@@ -16,7 +16,7 @@
 ==========To change image to icon=======
 - https://www.shutterstock.com/
 - npm install react-icons --save
-- https://github.com/YousafKhan1/Portfolio-React-Tailwind
+
 
 https://github.com/amannesiha
 https://www.linkedin.com/in/abubeker-yimam-b46351134/
